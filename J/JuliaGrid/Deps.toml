@@ -40,3 +40,9 @@ Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 
 ["0.1.7 - 0"]
 PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+
+["0.3.2 - 0"]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+
+["0.5 - 0"]
+KLU = "ef3ab10e-7fda-4108-b977-705223b18434"
