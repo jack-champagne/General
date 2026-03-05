@@ -51,9 +51,11 @@ Pidfile = "1.3.0-1"
 Preferences = "1.2.0-1"
 
 ["0.3 - 0"]
-JLD2 = "0.5"
 SparseArrayKit = "0.4"
 TensorOperations = "5"
+
+["0.3 - 0.3.3"]
+JLD2 = "0.5"
 
 ["0.3.0"]
 TensorKitSectors = "0.1.1-0.1"
@@ -69,5 +71,14 @@ Preferences = "1.2.0 - 1"
 RationalRoots = "0.1 - 0.2"
 julia = "1.10.0 - 1"
 
-["0.3.2 - 0"]
+["0.3.2"]
 TensorKitSectors = "0.1.1 - 0.2"
+
+["0.3.3 - 0.3.4"]
+TensorKitSectors = "0.3"
+
+["0.3.4 - 0"]
+JLD2 = "0.5 - 0.6"
+
+["0.3.5 - 0"]
+TensorKitSectors = "0.3.5 - 0.3"

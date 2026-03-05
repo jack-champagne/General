@@ -37,14 +37,28 @@ SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 ["0.2.165 - 0"]
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
+["0.2.182 - 0"]
+NPZ = "15e1cf62-19b3-5cfa-8e77-841668bca605"
+
+["0.2.199 - 0"]
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+
+["0.2.217 - 0"]
+IrrationalConstants = "92d709cd-6900-40b7-9082-c6be49f344b6"
+LogExpFunctions = "2ab3a3ac-af41-5b50-aa03-7779005ae688"
+MCMCDiagnosticTools = "be115224-59cd-429b-ad48-344e309966f0"
+
+["0.2.223 - 0"]
+StructArrays = "09ab397b-f2b6-538f-b94a-2f83cf4a842a"
+
 ["0.2.23 - 0"]
 KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
 
-["0.2.26 - 0"]
-GPUCompiler = "61eb1bfa-7361-4325-ad38-22787b887f55"
-
 ["0.2.26 - 0.2.161"]
 LLVM = "929cbde3-209d-540e-8aea-75f648917ca0"
+
+["0.2.26 - 0.2.199"]
+GPUCompiler = "61eb1bfa-7361-4325-ad38-22787b887f55"
 
 ["0.2.32 - 0"]
 MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"

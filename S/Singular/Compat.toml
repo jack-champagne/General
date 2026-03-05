@@ -293,7 +293,6 @@ AbstractAlgebra = "0.43.1 - 0.45"
 Nemo = "0.47 - 0.50"
 
 ["0.25.6 - 0"]
-BinaryWrappers = "0.1.1 - 0.1"
 Libdl = "1.6.0 - 1"
 LinearAlgebra = "1.6.0 - 1"
 Pkg = "1.6.0 - 1"
@@ -308,19 +307,67 @@ Statistics = "1.6.0 - 1"
 julia = "1.6.0 - 1"
 libsingular_julia_jll = "0.47.5"
 
+["0.25.6 - 0.28.4"]
+BinaryWrappers = "0.1.1 - 0.1"
+
 ["0.25.7"]
 AbstractAlgebra = "0.43.1 - 0.46"
 Nemo = "0.47 - 0.51"
 
-["0.25.8 - 0"]
-AbstractAlgebra = "0.43.1 - 0.47"
+["0.25.8 - 0.28.2"]
 Nemo = "0.47 - 0.52"
+
+["0.25.8 - 0.28.6"]
+AbstractAlgebra = "0.43.1 - 0.47"
 
 ["0.26 - 0"]
 FileWatching = "1.10.0 - 1"
-Singular_jll = "404.100.301"
 julia = "1.10.0 - 1"
+
+["0.26.0"]
+Singular_jll = "404.100.301"
 libsingular_julia_jll = "0.47.6"
+
+["0.26.1 - 0.27"]
+Singular_jll = "404.101.400"
+
+["0.26.1 - 0.27.0"]
+libsingular_julia_jll = "0.47.7"
+
+["0.27.1 - 0.27"]
+libsingular_julia_jll = "0.47.8"
+
+["0.28 - 0.28.5"]
+libsingular_julia_jll = "0.47.9"
+
+["0.28.0"]
+Singular_jll = "404.101.500"
+
+["0.28.1"]
+Singular_jll = "404.101.501"
+
+["0.28.2"]
+Singular_jll = "404.101.502"
+
+["0.28.3 - 0.28.6"]
+Nemo = "0.47 - 0.53"
+
+["0.28.3 - 0.28.7"]
+Singular_jll = "404.101.503"
+
+["0.28.5 - 0"]
+BinaryWrappers = "0.1.1 - 0.2"
+
+["0.28.6 - 0.28.7"]
+libsingular_julia_jll = "0.47.10"
+
+["0.28.7 - 0"]
+AbstractAlgebra = "0.43.1 - 0.48"
+Nemo = "0.47 - 0.54"
+
+["0.28.8 - 0"]
+Singular_jll = "404.101.505"
+libsingular_julia_jll = "0.47.12"
 
 ["0.3 - 0.3.1"]
 CxxWrap = "0.10.1-0.10"

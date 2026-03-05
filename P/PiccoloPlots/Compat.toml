@@ -42,15 +42,34 @@ TestItemRunner = "1.1.0-1"
 
 ["0.1.4 - 0"]
 LaTeXStrings = "1.4.0 - 1"
-NamedTrajectories = "0.5"
-PiccoloQuantumObjects = "0.6"
 Random = "1.10.0 - 1"
 Reexport = "1.2.0 - 1"
 TestItemRunner = "1.1.0 - 1"
 julia = "1.10.0 - 1"
 
+["0.1.4 - 0.2"]
+NamedTrajectories = "0.5"
+PiccoloQuantumObjects = "0.6"
+
 ["0.2 - 0"]
 LinearAlgebra = "1.10.0 - 1"
 
-["0.2.1 - 0"]
+["0.2.1 - 0.3"]
 MakieCore = "0.9 - 0.10"
+
+["0.3.0"]
+NamedTrajectories = "0.6"
+PiccoloQuantumObjects = "0.7"
+
+["0.3.1 - 0.3"]
+NamedTrajectories = "0.7"
+
+["0.3.1 - 0.4.0"]
+PiccoloQuantumObjects = "0.8"
+
+["0.4 - 0"]
+Makie = "0.24"
+NamedTrajectories = "0.8"
+
+["0.4.1 - 0"]
+PiccoloQuantumObjects = "0.9 - 0.10"

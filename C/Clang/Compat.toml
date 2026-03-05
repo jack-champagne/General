@@ -58,9 +58,17 @@ Clang_jll = "12-16"
 
 ["0.19 - 0"]
 CEnum = "0.4 - 0.5"
-Clang_jll = "16 - 19"
 Downloads = "1.4.0 - 1"
 julia = "1.11.0 - 1"
+
+["0.19.0"]
+Clang_jll = "16 - 19"
+
+["0.19.1 - 0.19.2"]
+Clang_jll = "16 - 21"
+
+["0.19.3 - 0"]
+Clang_unified_jll = "0.1"
 
 ["0.8"]
 julia = "1"

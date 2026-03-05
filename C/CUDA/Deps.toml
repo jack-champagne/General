@@ -33,8 +33,10 @@ Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
-Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
+["0 - 5.9.5"]
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 
 ["2 - 5"]
 BFloat16s = "ab4f0b2a-ad5b-11e8-123f-65d77653426b"
@@ -74,10 +76,12 @@ UnsafeAtomicsLLVM = "d80eeb9a-aca5-4d75-85e5-170c8b632249"
 
 [5]
 Crayons = "a8cc5b0e-0ffa-5ad4-8c14-923d3ee1735f"
-DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 NVTX = "5da4648a-3479-48b8-97b9-01cb529c0a1f"
 PrettyTables = "08abe8d2-0d0c-5749-adfa-8a2ac140af0d"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+["5 - 5.9.6"]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 
 ["5.1 - 5"]
 LLVMLoopInfo = "8b046642-f1f6-4319-8d3c-209ddc03c586"
