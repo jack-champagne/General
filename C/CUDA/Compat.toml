@@ -331,6 +331,9 @@ CUDA_Runtime_jll = "0.20"
 ["5.11 - 5"]
 CUDA_Runtime_jll = "0.21"
 
+["5.11.2 - 5"]
+CUDA_Runtime_Discovery = "2"
+
 ["5.2"]
 CUDA_Runtime_jll = "0.11"
 
@@ -415,11 +418,13 @@ KernelAbstractions = "0.9.32-0.9"
 ["5.8.3 - 5"]
 CEnum = "0.2 - 0.5"
 CUDA_Driver_jll = "13"
-CUDA_Runtime_Discovery = "1"
 KernelAbstractions = "0.9.38 - 0.9"
 Random123 = "1.2.0 - 1"
 RandomNumbers = "1.5.3 - 1"
 demumble_jll = "1.3.0 - 1"
+
+["5.8.3 - 5.11.1"]
+CUDA_Runtime_Discovery = "1"
 
 ["5.8.3 - 5.8"]
 AbstractFFTs = ["0.4 - 0.5", "1"]
@@ -490,7 +495,7 @@ CUDA_Compiler_jll = "0.3 - 0.4"
 ["5.9.7 - 5"]
 GPUArrays = "11.4.1 - 11"
 
-[6]
+["6.0"]
 CUDACore = "6.0.0"
 CUDATools = "6.0.0"
 cuBLAS = "6.0.0"
@@ -498,3 +503,12 @@ cuFFT = "6.0.0"
 cuRAND = "6.0.0"
 cuSOLVER = "6.0.0"
 cuSPARSE = "6.0.0"
+
+["6.1 - 6"]
+CUDACore = "6.1.0"
+CUDATools = "6.1.0"
+cuBLAS = "6.1.0"
+cuFFT = "6.1.0"
+cuRAND = "6.1.0"
+cuSOLVER = "6.1.0"
+cuSPARSE = "6.1.0"
